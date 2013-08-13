@@ -1,4 +1,4 @@
-#include "wbxml.h"
+#include <wbxml_conv.h>
 
 typedef enum {kCompact = WBXML_GEN_XML_COMPACT,
 	      kIndent = WBXML_GEN_XML_INDENT,
